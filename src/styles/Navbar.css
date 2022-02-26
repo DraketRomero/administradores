@@ -1,0 +1,7 @@
+.navbar {
+	grid-column: 2 / 4;
+	grid-row: 1 / 2;
+	position: absolute;
+	background: #4fb9bb;
+	border: 1px solid black;
+}
