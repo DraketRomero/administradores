@@ -1,2 +1,0 @@
-INSERT INTO dduser (NOMUSE, APPUSE, APMUSE, AGEUSE, CELUSE, USEUSE, PASUSE) 
-VALUES ('Reyes Diego', 'Garrido', 'Romero', '25', '5540462751', 'diegoromero', '');
